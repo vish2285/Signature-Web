@@ -2,6 +2,7 @@
 * Signnature website is build with Javascript, Html, Css and BootStrap
 * This website functions properly only on large screens.
 * You can draw your signature on any background color and draw with any color, then save it by clicking the save & download button. If you previously refreshed the site but saved your image, you can get it by clicking the retrieve signature button.
+* Yoo can also choose you prefered font size.
 
 # Overview Of Project
 Link: [signature-web](https://signature-web.netlify.app/)
