@@ -6,4 +6,4 @@
 Link: [signature-web](https://signature-web.netlify.app/)
 
 # built with
-[![Made with](https://skillicons.dev/icons?i=js,html,,css,bootstrap)](https://skillicons.dev)
+[![Made with](https://skillicons.dev/icons?i=js,html,css,bootstrap)](https://skillicons.dev)
